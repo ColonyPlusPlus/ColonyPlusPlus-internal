@@ -14,11 +14,11 @@
 		"isPlaceable" : true,
 		"sideall" : "planks",
 		"sidey+" : "bricks",
-		"sidey-" : "bricks"
+		"sidex+" : "bricks"
 	},
     "recipes": [
         {
-            "type": "craftingbaking",
+            "type": "innerwall",
             "recipe": {
                 "results": [
                     {
@@ -27,12 +27,8 @@
                 ],
                 "requires": [
                     {
-                        "type": "bread",
+                        "type": "planks",
                         "amount": 1
-                    },
-                    {
-                        "type": "berry",
-                        "amount": 2
                     }
                 ],
                 "fuelPerCraft" : 0.00
