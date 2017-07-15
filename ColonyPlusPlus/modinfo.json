@@ -6,6 +6,7 @@
 	"dependencies": {	
 	},
 	"modules": [
-		"typesoverrides"
+		"typesoverrides",
+		"addtypes"
 	]
 }
