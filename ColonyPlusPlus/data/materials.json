@@ -7,7 +7,7 @@
 	},
 	"cppwood" : {
 		"albedo" : "cppwood",
-		"normal" : "neutral",
+		"normal" : "log",
 		"emissive" : "neutral",
 		"height" : "cppwood"
 	},
