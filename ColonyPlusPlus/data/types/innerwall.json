@@ -14,7 +14,7 @@
 		"isPlaceable" : true,
 		"sideall" : "planks",
 		"sidey+" : "bricks",
-		"sidey-" : "bricks",
+		"sidey-" : "bricks"
 	},
     "recipes": [
         {
