@@ -3,7 +3,7 @@
     "localization": {
         "en_US": {
             "types": "Jam filled Bun",
-            "typesuses": "A jam filled bun!"
+            "typeuses": "A jam filled bun!"
         }
     },
     "data" : {
