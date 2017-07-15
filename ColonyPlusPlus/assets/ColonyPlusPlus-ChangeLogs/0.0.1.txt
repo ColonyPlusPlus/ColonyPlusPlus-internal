@@ -7,3 +7,9 @@ Added:
             * 1 Bread
             * 2 Berry
             * No fuel required!
+    * Innerwall
+        * NPC crafted
+        * 1 plank
+    * Innerwallcorner
+        * NPC crafted
+        * 1 plank
