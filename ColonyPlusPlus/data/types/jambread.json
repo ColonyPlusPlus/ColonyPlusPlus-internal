@@ -1,7 +1,7 @@
 {
 	"name": "jambread",
     "localization": {
-        "en_US": {
+        "en-US": {
             "types": "Jam filled Bun",
             "typeuses": "A jam filled bun!"
         },
