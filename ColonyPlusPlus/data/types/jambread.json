@@ -1,7 +1,10 @@
 {
 	"name": "jambread",
-    "localisation": {
-        "en_US": "Jam filled Bun"
+    "localization": {
+        "en_US": {
+            "types": "Jam filled Bun",
+            "typesuses": "A jam filled bun!"
+        }
     },
     "data" : {
 		"isPlaceable" : false,
