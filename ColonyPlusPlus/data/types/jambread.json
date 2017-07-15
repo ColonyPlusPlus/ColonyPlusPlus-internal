@@ -1,0 +1,7 @@
+{
+	"name": "jambread",
+    "data" : {
+		"isPlaceable" : false,
+		"nutritionalValue" : 4.5
+	}
+}
