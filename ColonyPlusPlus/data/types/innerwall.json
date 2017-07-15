@@ -12,6 +12,7 @@
     },
     "data" : {
 		"isPlaceable" : true,
+        "isAutoRotatable": true,
 		"sideall" : "planks",
 		"sidey+" : "bricks",
 		"sidex+" : "bricks"
