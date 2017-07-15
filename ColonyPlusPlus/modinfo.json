@@ -8,6 +8,7 @@
 	"modules": [
 		"typesoverrides",
 		"addtypes",
-		"copyassets"
+		"copyassets",
+        "localization"
 	]
 }
