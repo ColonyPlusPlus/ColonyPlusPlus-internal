@@ -1,0 +1,40 @@
+{
+	"name": "woodwallpaper1",
+    "localization": {
+        "en-US": {
+            "types": "Wood With Wallpaper 1",
+            "typeuses": "A wooden wall with wallpaper!"
+        }
+    },
+    "data" : {
+		"isPlaceable" : true,
+        "isAutoRotatable": true,
+        "onRemoveAudio": "woodDeleteLight",
+        "onPlaceAudio": "woodPlace",
+		"sideall" : "planks",
+		"sidex+" : "wallpapersakura"
+	},
+    "recipes": [
+        {
+            "type": "crafting",
+            "recipe": {
+                "results": [
+                    {
+                        "type": "woodwallpaper1"
+                    }
+                ],
+                "requires": [
+                    {
+                        "type": "planks",
+                        "amount": 1
+                    },
+                    {
+                        "type": "wallpaper",
+                        "amount": 1
+                    }
+                ],
+                "npcCraftable" : true
+            }
+        }
+    ]
+}

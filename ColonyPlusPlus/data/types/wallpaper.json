@@ -1,0 +1,32 @@
+{
+	"name": "wallpaper",
+    "localization": {
+        "en-US": {
+            "types": "Blank Wallpaper",
+            "typeuses": "Wallpaper needed for decorative blocks"
+        }
+    },
+    "data" : {
+		"isPlaceable" : false
+	},
+    "recipes": [
+        {
+            "type": "crafting",
+            "recipe": {
+                "results": [
+                    {
+                        "type": "wallpaper",
+                        "amount": 30
+                    }
+                ],
+                "requires": [
+                    {
+                        "type": "planks",
+                        "amount": 1
+                    }
+                ],
+                "fuelPerCraft" : 0.00
+            }
+        }
+    ]
+}
