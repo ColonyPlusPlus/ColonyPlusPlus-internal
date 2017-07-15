@@ -13,6 +13,8 @@
     "data" : {
 		"isPlaceable" : true,
         "isAutoRotatable": true,
+        "onRemoveAudio": "grassDelete",
+        "onPlaceAudio": "dirtPlace",
 		"sideall" : "planks",
 		"sidey+" : "bricks",
 		"sidex+" : "bricks"
