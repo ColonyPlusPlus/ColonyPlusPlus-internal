@@ -1,5 +1,5 @@
 {
-	"name": "innerwall",
+	"name": "innerwallcorner",
     "localization": {
         "en-US": {
             "types": "Jam filled Bun",
@@ -16,7 +16,8 @@
         "onRemoveAudio": "grassDelete",
         "onPlaceAudio": "dirtPlace",
 		"sideall" : "planks",
-		"sidex+" : "bricks"
+		"sidex+" : "bricks",
+        "sidez+" : "bricks"
 	},
     "recipes": [
         {
@@ -24,7 +25,7 @@
             "recipe": {
                 "results": [
                     {
-                        "type": "innerwall"
+                        "type": "innerwallcorner"
                     }
                 ],
                 "requires": [
