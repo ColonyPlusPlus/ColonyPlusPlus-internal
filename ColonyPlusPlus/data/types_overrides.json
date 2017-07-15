@@ -1,5 +1,10 @@
 {
 	"stoneblock" : {
 		"destructionTime" : 300
+	},
+	"logtemperate": {
+		"sideall" : "cppwood",
+		"sidey+" : "cppwoodtop",
+		"sidey-" : "cppwoodtop"
 	}
 }

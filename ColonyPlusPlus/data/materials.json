@@ -4,5 +4,17 @@
 		"normal" : "neutral",
 		"emissive" : "neutral",
 		"height" : "wallpapersakura"
+	},
+	"cppwood" : {
+		"albedo" : "cppwood",
+		"normal" : "neutral",
+		"emissive" : "neutral",
+		"height" : "cppwood"
+	},
+	"cppwoodtop" : {
+		"albedo" : "cppwoodtop",
+		"normal" : "neutral",
+		"emissive" : "neutral",
+		"height" : "cppwoodtop"
 	}
 }
