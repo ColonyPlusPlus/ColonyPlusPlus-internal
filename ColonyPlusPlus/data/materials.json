@@ -1,8 +1,8 @@
 {
 	"woodwallpaper1" : {
-		"albedo" : "woodwallpaper1",
-		"normal" : "woodwallpaper1",
+		"albedo" : "wallpapersakura",
+		"normal" : "neutral",
 		"emissive" : "neutral",
-		"height" : "woodwallpaper1"
+		"height" : "wallpapersakura"
 	}
 }
