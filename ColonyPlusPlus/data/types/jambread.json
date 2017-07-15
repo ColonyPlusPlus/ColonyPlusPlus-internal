@@ -1,7 +1,33 @@
 {
 	"name": "jambread",
+    "localisation": {
+        "en_US": "Jam filled Bun"
+    },
     "data" : {
 		"isPlaceable" : false,
 		"nutritionalValue" : 4.5
-	}
+	},
+    "recipes": [
+        {
+            "type": "craftingbaking",
+            "recipe": {
+                "results": [
+                    {
+                        "type": "jambread"
+                    }
+                ],
+                "requires": [
+                    {
+                        "type": "bread",
+                        "amount": 1
+                    },
+                    {
+                        "type": "berry",
+                        "amount": 2
+                    }
+                ],
+                "fuelPerCraft" : 0.00
+            }
+        }
+    ]
 }
