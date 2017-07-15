@@ -18,11 +18,11 @@
 	},
     "recipes": [
         {
-            "type": "innerwall",
+            "type": "crafting",
             "recipe": {
                 "results": [
                     {
-                        "type": "jambread"
+                        "type": "innerwall"
                     }
                 ],
                 "requires": [
@@ -31,7 +31,7 @@
                         "amount": 1
                     }
                 ],
-                "fuelPerCraft" : 0.00
+                "npcCraftable" : true
             }
         }
     ]
