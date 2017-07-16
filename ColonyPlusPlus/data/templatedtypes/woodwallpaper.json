@@ -1,0 +1,36 @@
+{
+    "name": "woodwallpaper",
+    "templates": [
+        "templatedwall",
+        "templatedwallcorner"
+    ],
+    "iterations": [
+        {
+            "itemname": "woodwallpaper1",
+            "craftingtype": "crafting",
+            "wallpaper": "wallpapersakura",
+            "localizationtitle": "Wood With Wallpaper (Sakura)",
+            "localizationdesc": "A wooden wall with wallpaper!",
+            "localizationtitlecorner": "Wood With Wallpaper (Sakura)",
+            "localizationdesccorner": "A wooden corner wall with wallpaper!"
+        },
+        {
+            "itemname": "woodwallpaper2",
+            "craftingtype": "crafting",
+            "wallpaper": "wallpaperlyonette",
+            "localizationtitle": "Wood With Wallpaper (Lyonette)",
+            "localizationdesc": "A wooden wall with wallpaper!",
+            "localizationtitlecorner": "Wood With Wallpaper (Lyonette)",
+            "localizationdesccorner": "A wooden corner wall with wallpaper!"
+        },
+        {
+            "itemname": "woodwallpaper3",
+            "craftingtype": "crafting",
+            "wallpaper": "wallpapersubtlestripe",
+            "localizationtitle": "Wood With Wallpaper (Subtle Green Stripe)",
+            "localizationdesc": "A wooden wall with wallpaper!",
+            "localizationtitlecorner": "Wood With Wallpaper 3",
+            "localizationdesccorner": "A wooden corner wall with wallpaper!"
+        }
+    ]
+}

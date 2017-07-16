@@ -1,9 +1,9 @@
 {
-	"name": "{{itemname}}",
+	"name": "{{itemname}}corner",
     "localization": {
         "en-US": {
-            "types": "{{localizationtitle}}",
-            "typeuses": "{{localizationdesc}}"
+            "types": "{{localizationtitlecorner}}",
+            "typeuses": "{{localizationdesccorner}}"
         }
     },
     "data" : {
@@ -12,7 +12,8 @@
         "onRemoveAudio": "woodDeleteLight",
         "onPlaceAudio": "woodPlace",
         "sideall" : "planks",
-		"sidex+" : "{{wallpaper}}"
+        "sidex+" : "{{wallpaper}}",
+        "sidez+" : "{{wallpaper}}"
 	},
     "recipes": [
         {
@@ -20,7 +21,7 @@
             "recipe": {
                 "results": [
                     {
-                        "type": "{{itemname}}"
+                        "type": "{{itemname}}corner"
                     }
                 ],
                 "requires": [
@@ -30,7 +31,7 @@
                     },
                     {
                         "type": "wallpaper",
-                        "amount": 1
+                        "amount": 2
                     }
                 ],
                 "fuelPerCraft" : 0.00
@@ -48,7 +49,7 @@
                 "requires": [
                     
                     {
-                        "type": "{{itemname}}",
+                        "type": "{{itemname}}corner",
                         "amount": 1
                     }
                 ],
