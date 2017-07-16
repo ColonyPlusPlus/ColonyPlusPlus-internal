@@ -5,6 +5,22 @@
 	"logtemperate": {
 		"sideall" : "cppwood",
 		"sidey+" : "cppwoodtop",
-		"sidey-" : "cppwoodtop"
-	}
+		"sidey-" : "cppwoodtop",
+        "onRemove" : [
+			{
+				"type" : "temperateblock",
+				"amount" : 1,
+				"chance" : 1
+			}
+        ]
+	},
+    "logtaiga" : {
+        "onRemove" : [
+			{
+				"type" : "taigablock",
+				"amount" : 1,
+				"chance" : 1
+			}
+        ]
+    }
 }

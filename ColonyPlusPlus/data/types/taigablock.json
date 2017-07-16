@@ -1,0 +1,12 @@
+{
+	"name": "taigablock",
+    "localization": {
+        "en-US": {
+            "types": "Taiga Wood Block",
+            "typeuses": "Just some wooden block"
+        }
+    },
+    "data" : {
+		"isPlaceable" : true
+	}
+}
