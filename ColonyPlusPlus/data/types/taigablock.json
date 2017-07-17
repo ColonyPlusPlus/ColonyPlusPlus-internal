@@ -10,6 +10,8 @@
 		"isPlaceable" : true,
         "sideall" : "cppwoodtaiga",
         "sidey+" : "cppwoodtaigatop",
-        "sidey-" : "cppwoodtaigatop"	
+        "sidey-" : "cppwoodtaigatop",
+        "onPlaceAudio": "woodPlace",
+        "onRemoveAudio": "woodDeleteHeavy"	
 	}
 }

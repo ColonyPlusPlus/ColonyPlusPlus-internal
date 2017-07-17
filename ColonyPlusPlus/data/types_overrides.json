@@ -15,6 +15,9 @@
         ]
 	},
     "logtaiga" : {
+    	"sideall" : "cppwoodtaiga",
+        "sidey+" : "cppwoodtaigatop",
+        "sidey-" : "cppwoodtaigatop",
         "onRemove" : [
 			{
 				"type" : "taigablock",
