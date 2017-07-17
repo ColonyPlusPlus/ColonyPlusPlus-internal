@@ -1,0 +1,12 @@
+{
+	"name": "sugar",
+    "localization": {
+        "en-US": {
+            "types": "Sugar",
+            "typeuses": "For something sweet!"
+        }
+    },
+    "data" : {
+		"isPlaceable" : false
+	}
+}

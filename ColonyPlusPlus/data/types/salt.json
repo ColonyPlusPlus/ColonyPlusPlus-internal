@@ -1,0 +1,12 @@
+{
+	"name": "salt",
+    "localization": {
+        "en-US": {
+            "types": "Salt",
+            "typeuses": "For a little extra seasoning"
+        }
+    },
+    "data" : {
+		"isPlaceable" : false
+	}
+}
