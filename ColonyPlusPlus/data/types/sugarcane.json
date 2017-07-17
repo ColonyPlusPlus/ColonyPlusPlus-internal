@@ -10,6 +10,7 @@
 		"isPlaceable" : true,
         "onPlaceAudio": "woodPlace",
         "onRemoveAudio": "woodDeleteHeavy",
+        "sideall": "sugarcane",
         "onRemove": [
             {
                 "type" : "sugarcaneitem",
