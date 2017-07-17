@@ -1,6 +1,7 @@
 {
 	"name": "ColonyPlusPlus",
 	"safename": "colony-plus-plus",
+	"version": "0.0.3",
 	"authors": "Tom Kent, Fairywhiz, JackPS9",
 	"dependencies": {	
 	},
