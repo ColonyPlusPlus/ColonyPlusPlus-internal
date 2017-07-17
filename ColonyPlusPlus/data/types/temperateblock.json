@@ -8,6 +8,6 @@
     },
     "data" : {
 		"isPlaceable" : true,
-		"sideall" : "logtemperate",	
+		"sideall" : "logtemperate"	
 	}
 }

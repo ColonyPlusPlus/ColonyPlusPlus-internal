@@ -2,8 +2,8 @@
 	"name": "egg",
     "localization": {
         "en-US": {
-            "types": "Milk",
-            "typeuses": "It's really gooood for you!"
+            "types": "Egg",
+            "typeuses": "Just a common white egg"
         }
     },
     "data" : {
