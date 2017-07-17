@@ -31,7 +31,11 @@
 		},
         {
             "tree" : "temperateWildBerryBush",
-            "chance" : 0.0014
+            "chance" : 0.0125
+        },
+        {
+            "tree" : "temperateSugarcane",
+            "chance" : 0.0222
         }
 	]
 }
