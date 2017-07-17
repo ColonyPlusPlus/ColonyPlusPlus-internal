@@ -3,7 +3,13 @@ Added:
 	* Egg
 	* Feather
 	* Milk
+    * Wild Berry Bushes
+        * Spawns in temperate
+        * Drops
+            * 1 Berry - 80%
+            * 2 Berry - 20%
+            * 5 Berry - 1%
+            * Berry Bush - 15%
         
-Changes:
-    
-Removed:
+Fixed:
+    * Temperate and Tiaga blocks now have textures

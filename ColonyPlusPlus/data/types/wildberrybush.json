@@ -1,0 +1,35 @@
+{
+	"name": "wildberrybush",
+    "localization": {
+        "en-US": {
+            "types": "wildberrybush",
+            "typeuses": "wildberrybush"
+        }
+    },
+    "data" : {
+        "onPlaceAudio" : "dirtPlace",
+		"onRemoveAudio" : "grassDelete",
+		"sideall" : "SELF",	
+        "onRemove" : [
+			{
+				"type" : "berry",
+				"amount" : 1,
+				"chance" : 0.8
+			},
+			{
+				"type" : "berry",
+				"amount" : 2,
+				"chance" : 0.20
+			},
+			{
+				"type" : "berry",
+				"amount" : 5,
+				"chance" : 0.01
+			},
+            {
+                "type" : "berrybush",
+                "amount" : 1,
+                "chance" : 0.15
+            }
+	}
+}

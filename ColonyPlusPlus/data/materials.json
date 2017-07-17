@@ -28,5 +28,11 @@
 		"normal" : "neutral",
 		"emissive" : "neutral",
 		"height" : "cppwoodtop"
-	}
+	},
+    "wildberrybush" : {
+        "albedo" : "wildberrybush",
+		"normal" : "berrybush",
+		"emissive" : "neutral",
+		"height" : "berrybush"
+    }
 }
