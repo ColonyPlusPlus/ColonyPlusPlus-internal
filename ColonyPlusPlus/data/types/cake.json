@@ -1,0 +1,12 @@
+{
+	"name": "cake",
+    "localization": {
+        "en-US": {
+            "types": "Cake",
+            "typeuses": "Why is this not frosted?"
+        }
+    },
+    "data" : {
+		"isPlaceable" : false
+	}
+}

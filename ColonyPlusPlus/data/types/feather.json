@@ -1,0 +1,12 @@
+{
+	"name": "feather",
+    "localization": {
+        "en-US": {
+            "types": "Feather",
+            "typeuses": "What does this belong to?"
+        }
+    },
+    "data" : {
+		"isPlaceable" : false
+	}
+}

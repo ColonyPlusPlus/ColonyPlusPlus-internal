@@ -1,0 +1,12 @@
+{
+	"name": "egg",
+    "localization": {
+        "en-US": {
+            "types": "Egg",
+            "typeuses": "Just a common white egg"
+        }
+    },
+    "data" : {
+		"isPlaceable" : false
+	}
+}
