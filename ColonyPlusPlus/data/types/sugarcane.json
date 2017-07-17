@@ -1,0 +1,21 @@
+{
+	"name": "sugarcane",
+    "localization": {
+        "en-US": {
+            "types": "Sugarcane",
+            "typeuses": "Just Sugarcane"
+        }
+    },
+    "data" : {
+		"isPlaceable" : true,
+        "onPlaceAudio": "woodPlace",
+        "onRemoveAudio": "woodDeleteHeavy",
+        "onRemove": [
+            {
+                "type" : "sugarcaneitem",
+                "amount" : 3,
+                "chance" : 1
+            }
+        ]
+	}
+}

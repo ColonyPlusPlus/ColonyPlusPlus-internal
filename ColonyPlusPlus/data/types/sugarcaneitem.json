@@ -1,0 +1,34 @@
+{
+	"name": "sugarcaneitem",
+    "localization": {
+        "en-US": {
+            "types": "Sugarcane",
+            "typeuses": "Sugarcane: grind it into sugary goodness!"
+        }
+    },
+    "data" : {
+		"isPlaceable" : false,
+        "onPlaceAudio": "woodPlace",
+        "onRemoveAudio": "woodDeleteHeavy"
+	},
+    "recipes": [
+        {
+            "type": "craftinggrinding",
+            "recipe": {
+                "results": [
+                    {
+                        "type": "sugar",
+                        "amount": 5
+                    }
+                ],
+                "requires": [
+                    {
+                        "type": "sugarcaneitem",
+                        "amount": 1
+                    }
+                ],
+                "fuelPerCraft" : 0.00
+            }
+        }
+    ]
+}
