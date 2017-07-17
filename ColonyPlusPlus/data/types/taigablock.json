@@ -8,6 +8,8 @@
     },
     "data" : {
 		"isPlaceable" : true,
-		"sideall" : "logtaiga"	
+        "sideall" : "cppwoodtaiga",
+        "sidey+" : "cppwoodtaigatop",
+        "sidey-" : "cppwoodtaigatop"	
 	}
 }

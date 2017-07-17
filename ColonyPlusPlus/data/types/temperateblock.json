@@ -8,6 +8,8 @@
     },
     "data" : {
 		"isPlaceable" : true,
-		"sideall" : "logtemperate"	
+        "sideall" : "cppwood",
+        "sidey+" : "cppwoodtop",
+        "sidey-" : "cppwoodtop"
 	}
 }

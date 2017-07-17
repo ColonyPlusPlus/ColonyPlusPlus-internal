@@ -29,6 +29,18 @@
 		"emissive" : "neutral",
 		"height" : "cppwoodtop"
 	},
+	"cppwoodtaiga" : {
+		"albedo" : "cppwoodtaiga",
+		"normal" : "log",
+		"emissive" : "neutral",
+		"height" : "cppwood"
+	},
+	"cppwoodtaigatop" : {
+		"albedo" : "cppwoodtaigatop",
+		"normal" : "neutral",
+		"emissive" : "neutral",
+		"height" : "cppwoodtop"
+	},
     "wildberrybush" : {
         "albedo" : "wildberrybush",
 		"normal" : "berrybush",
