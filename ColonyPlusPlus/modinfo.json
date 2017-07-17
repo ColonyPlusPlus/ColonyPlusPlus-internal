@@ -1,7 +1,6 @@
 {
 	"name": "ColonyPlusPlus",
 	"safename": "colony-plus-plus",
-	"version": "0.1",
 	"authors": "Tom Kent, Fairywhiz, JackPS9",
 	"dependencies": {	
 	},
@@ -10,6 +9,7 @@
 		"addtypes",
 		"copyassets",
         "localization",
-        "materials"
+        "materials",
+        "addtemplatedtypes"
 	]
 }
