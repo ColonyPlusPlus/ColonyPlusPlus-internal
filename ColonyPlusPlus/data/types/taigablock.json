@@ -13,5 +13,24 @@
         "sidey-" : "cppwoodtaigatop",
         "onPlaceAudio": "woodPlace",
         "onRemoveAudio": "woodDeleteHeavy"	
-	}
+	},
+    "recipes" : [
+        {
+            "type": "crafting",
+            "recipe": {
+                "results": [
+                    {
+                        "type": "planks",
+                        "amount": 4
+                    }
+                ],
+                "requires": [
+                    {
+                        "type": "taigablock",
+                        "amount": 1
+                    }
+                ]
+            }
+        }
+    ]
 }

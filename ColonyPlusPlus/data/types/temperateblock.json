@@ -13,5 +13,24 @@
         "sidey-" : "cppwoodtop",
         "onPlaceAudio": "woodPlace",
         "onRemoveAudio": "woodDeleteHeavy"
-	}
+	},
+    "recipes" : [
+        {
+            "type": "crafting",
+            "recipe": {
+                "results": [
+                    {
+                        "type": "planks",
+                        "amount": 4
+                    }
+                ],
+                "requires": [
+                    {
+                        "type": "temperateblock",
+                        "amount": 1
+                    }
+                ]
+            }
+        }
+    ]
 }
